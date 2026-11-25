@@ -45,7 +45,7 @@ class colapedidosrestaurante:
 
 def iniciar_sistema():
     # CAMBIA ESTE VALOR POR EL NÚMERO DE LISTA DEL PRIMER INTEGRANTE ALFABÉTICAMENTE
-    N = 7
+    N = 8
     capacidad_max = (N % 4) + 3
     cocina = colapedidosrestaurante(capacidad_max)
 
